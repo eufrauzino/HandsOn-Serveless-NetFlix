@@ -5,7 +5,7 @@ using Microsoft.Azure.Functions.Worker;
 using Microsoft.Azure.Functions.Worker.Http;
 using Microsoft.Extensions.Logging;
 
-namespace fnGetMovieDetail
+namespace fnGetAllMovies
 {
     public class Function1
     {
@@ -18,30 +18,30 @@ namespace fnGetMovieDetail
             _cosmosClient = cosmosClient;
         }
 
-        [Function("detail")]
+        [Function("all")]
         public async Task<IActionResult> Run([HttpTrigger(AuthorizationLevel.Function, "get")] HttpRequestData req)
         {
             _logger.LogInformation("C# HTTP trigger function processed a request.");
             var container = _cosmosClient.GetContainer("DioFlixDB", "filmes");
-            var id = req.Query["id"];
-            var query = new QueryDefinition($"SELECT * FROM c WHERE c.id = @id");
-            var querDefinition = query.WithParameter("@id", id); 
+            //var id = req.Query["id"];
+            var query = $"SELECT * FROM c ";
+            var querDefinition = new QueryDefinition(query);
             var result = container.GetItemQueryIterator<MovieResult>(querDefinition);
             var results = new List<MovieResult>();
             while (result.HasMoreResults)
             {
-                foreach(var item in await result.ReadNextAsync())
+                foreach (var item in await result.ReadNextAsync())
                 {
                     results.Add(item);
                 }
-                
+
                
             }
+
             var responseMessage = req.CreateResponse(System.Net.HttpStatusCode.OK);
-            await responseMessage.WriteAsJsonAsync(results.FirstOrDefault());
+            await responseMessage.WriteAsJsonAsync(results);
 
             return (IActionResult)responseMessage;
-
 
         }
     }
