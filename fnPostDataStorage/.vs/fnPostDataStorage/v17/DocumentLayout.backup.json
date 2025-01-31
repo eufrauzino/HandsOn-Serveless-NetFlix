@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\dougl\\Documents\\GitHub\\DIO\\HandsOn-Serveless NetFlix\\fnPostDataStorage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{306999CE-FD9C-46F5-9118-D8DAFFFB0092}|fnPostDataBase\\fnPostDataBase.csproj|c:\\users\\dougl\\documents\\github\\dio\\handson-serveless netflix\\fnpostdatastorage\\fnpostdatabase\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{306999CE-FD9C-46F5-9118-D8DAFFFB0092}|fnPostDataBase\\fnPostDataBase.csproj|solutionrelative:fnpostdatabase\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{47AEE881-A2F7-4D90-B401-EC52719D68D9}|fnGetMovieDetail\\fnGetMovieDetail.csproj|c:\\users\\dougl\\documents\\github\\dio\\handson-serveless netflix\\fnpostdatastorage\\fngetmoviedetail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47AEE881-A2F7-4D90-B401-EC52719D68D9}|fnGetMovieDetail\\fnGetMovieDetail.csproj|solutionrelative:fngetmoviedetail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{306999CE-FD9C-46F5-9118-D8DAFFFB0092}|fnPostDataBase\\fnPostDataBase.csproj|c:\\users\\dougl\\documents\\github\\dio\\handson-serveless netflix\\fnpostdatastorage\\fnpostdatabase\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{306999CE-FD9C-46F5-9118-D8DAFFFB0092}|fnPostDataBase\\fnPostDataBase.csproj|solutionrelative:fnpostdatabase\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47AEE881-A2F7-4D90-B401-EC52719D68D9}|fnGetMovieDetail\\fnGetMovieDetail.csproj|c:\\users\\dougl\\documents\\github\\dio\\handson-serveless netflix\\fnpostdatastorage\\fngetmoviedetail\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47AEE881-A2F7-4D90-B401-EC52719D68D9}|fnGetMovieDetail\\fnGetMovieDetail.csproj|solutionrelative:fngetmoviedetail\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47AEE881-A2F7-4D90-B401-EC52719D68D9}|fnGetMovieDetail\\fnGetMovieDetail.csproj|c:\\users\\dougl\\documents\\github\\dio\\handson-serveless netflix\\fnpostdatastorage\\fngetmoviedetail\\movieresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47AEE881-A2F7-4D90-B401-EC52719D68D9}|fnGetMovieDetail\\fnGetMovieDetail.csproj|solutionrelative:fngetmoviedetail\\movieresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306999CE-FD9C-46F5-9118-D8DAFFFB0092}|fnPostDataBase\\fnPostDataBase.csproj|c:\\users\\dougl\\documents\\github\\dio\\handson-serveless netflix\\fnpostdatastorage\\fnpostdatabase\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{306999CE-FD9C-46F5-9118-D8DAFFFB0092}|fnPostDataBase\\fnPostDataBase.csproj|solutionrelative:fnpostdatabase\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{496637A0-5354-42FC-A097-ACBD93CFE538}|fnPostDataStorage\\fnPostDataStorage.csproj|c:\\users\\dougl\\documents\\github\\dio\\handson-serveless netflix\\fnpostdatastorage\\fnpostdatastorage\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{496637A0-5354-42FC-A097-ACBD93CFE538}|fnPostDataStorage\\fnPostDataStorage.csproj|solutionrelative:fnpostdatastorage\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{306999CE-FD9C-46F5-9118-D8DAFFFB0092}|fnPostDataBase\\fnPostDataBase.csproj|c:\\users\\dougl\\documents\\github\\dio\\handson-serveless netflix\\fnpostdatastorage\\fnpostdatabase\\fnpostdatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{306999CE-FD9C-46F5-9118-D8DAFFFB0092}|fnPostDataBase\\fnPostDataBase.csproj|solutionrelative:fnpostdatabase\\fnpostdatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{306999CE-FD9C-46F5-9118-D8DAFFFB0092}|fnPostDataBase\\fnPostDataBase.csproj|c:\\users\\dougl\\documents\\github\\dio\\handson-serveless netflix\\fnpostdatastorage\\fnpostdatabase\\filmerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{306999CE-FD9C-46F5-9118-D8DAFFFB0092}|fnPostDataBase\\fnPostDataBase.csproj|solutionrelative:fnpostdatabase\\filmerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{306999CE-FD9C-46F5-9118-D8DAFFFB0092}|fnPostDataBase\\fnPostDataBase.csproj|c:\\users\\dougl\\documents\\github\\dio\\handson-serveless netflix\\fnpostdatastorage\\fnpostdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{306999CE-FD9C-46F5-9118-D8DAFFFB0092}|fnPostDataBase\\fnPostDataBase.csproj|solutionrelative:fnpostdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{496637A0-5354-42FC-A097-ACBD93CFE538}|fnPostDataStorage\\fnPostDataStorage.csproj|c:\\users\\dougl\\documents\\github\\dio\\handson-serveless netflix\\fnpostdatastorage\\fnpostdatastorage\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{496637A0-5354-42FC-A097-ACBD93CFE538}|fnPostDataStorage\\fnPostDataStorage.csproj|solutionrelative:fnpostdatastorage\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{496637A0-5354-42FC-A097-ACBD93CFE538}|fnPostDataStorage\\fnPostDataStorage.csproj|c:\\users\\dougl\\documents\\github\\dio\\handson-serveless netflix\\fnpostdatastorage\\fnpostdatastorage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{496637A0-5354-42FC-A097-ACBD93CFE538}|fnPostDataStorage\\fnPostDataStorage.csproj|solutionrelative:fnpostdatastorage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47AEE881-A2F7-4D90-B401-EC52719D68D9}|fnGetMovieDetail\\fnGetMovieDetail.csproj|c:\\users\\dougl\\documents\\github\\dio\\handson-serveless netflix\\fnpostdatastorage\\fngetmoviedetail\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47AEE881-A2F7-4D90-B401-EC52719D68D9}|fnGetMovieDetail\\fnGetMovieDetail.csproj|solutionrelative:fngetmoviedetail\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,111 +41,81 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dougl\\Documents\\GitHub\\DIO\\HandsOn-Serveless NetFlix\\fnPostDataStorage\\fnPostDataBase\\Program.cs",
-              "RelativeDocumentMoniker": "fnPostDataBase\\Program.cs",
-              "ToolTip": "C:\\Users\\dougl\\Documents\\GitHub\\DIO\\HandsOn-Serveless NetFlix\\fnPostDataStorage\\fnPostDataBase\\Program.cs",
-              "RelativeToolTip": "fnPostDataBase\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "MovieResult.cs",
+              "DocumentMoniker": "C:\\Users\\dougl\\Documents\\GitHub\\DIO\\HandsOn-Serveless NetFlix\\fnPostDataStorage\\fnGetMovieDetail\\MovieResult.cs",
+              "RelativeDocumentMoniker": "fnGetMovieDetail\\MovieResult.cs",
+              "ToolTip": "C:\\Users\\dougl\\Documents\\GitHub\\DIO\\HandsOn-Serveless NetFlix\\fnPostDataStorage\\fnGetMovieDetail\\MovieResult.cs",
+              "RelativeToolTip": "fnGetMovieDetail\\MovieResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T03:41:10.422Z",
+              "WhenOpened": "2025-01-31T13:05:23.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "FilmeRequest.cs",
-              "DocumentMoniker": "C:\\Users\\dougl\\Documents\\GitHub\\DIO\\HandsOn-Serveless NetFlix\\fnPostDataStorage\\fnPostDataBase\\FilmeRequest.cs",
-              "RelativeDocumentMoniker": "fnPostDataBase\\FilmeRequest.cs",
-              "ToolTip": "C:\\Users\\dougl\\Documents\\GitHub\\DIO\\HandsOn-Serveless NetFlix\\fnPostDataStorage\\fnPostDataBase\\FilmeRequest.cs",
-              "RelativeToolTip": "fnPostDataBase\\FilmeRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T03:26:59.449Z",
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\dougl\\Documents\\GitHub\\DIO\\HandsOn-Serveless NetFlix\\fnPostDataStorage\\fnPostDataStorage\\local.settings.json",
+              "RelativeDocumentMoniker": "fnPostDataStorage\\local.settings.json",
+              "ToolTip": "C:\\Users\\dougl\\Documents\\GitHub\\DIO\\HandsOn-Serveless NetFlix\\fnPostDataStorage\\fnPostDataStorage\\local.settings.json",
+              "RelativeToolTip": "fnPostDataStorage\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T13:02:27.831Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "fnPostDataBase",
-              "DocumentMoniker": "C:\\Users\\dougl\\Documents\\GitHub\\DIO\\HandsOn-Serveless NetFlix\\fnPostDataStorage\\fnPostDataBase\\fnPostDataBase.csproj",
-              "RelativeDocumentMoniker": "fnPostDataBase\\fnPostDataBase.csproj",
-              "ToolTip": "C:\\Users\\dougl\\Documents\\GitHub\\DIO\\HandsOn-Serveless NetFlix\\fnPostDataStorage\\fnPostDataBase\\fnPostDataBase.csproj",
-              "RelativeToolTip": "fnPostDataBase\\fnPostDataBase.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-31T03:21:47.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "local.settings.json",
               "DocumentMoniker": "C:\\Users\\dougl\\Documents\\GitHub\\DIO\\HandsOn-Serveless NetFlix\\fnPostDataStorage\\fnPostDataBase\\local.settings.json",
               "RelativeDocumentMoniker": "fnPostDataBase\\local.settings.json",
               "ToolTip": "C:\\Users\\dougl\\Documents\\GitHub\\DIO\\HandsOn-Serveless NetFlix\\fnPostDataStorage\\fnPostDataBase\\local.settings.json",
               "RelativeToolTip": "fnPostDataBase\\local.settings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-31T03:16:11.5Z",
+              "WhenOpened": "2025-01-31T13:02:20.869Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Function1.cs",
-              "DocumentMoniker": "C:\\Users\\dougl\\Documents\\GitHub\\DIO\\HandsOn-Serveless NetFlix\\fnPostDataStorage\\fnPostDataBase\\Function1.cs",
-              "RelativeDocumentMoniker": "fnPostDataBase\\Function1.cs",
-              "ToolTip": "C:\\Users\\dougl\\Documents\\GitHub\\DIO\\HandsOn-Serveless NetFlix\\fnPostDataStorage\\fnPostDataBase\\Function1.cs",
-              "RelativeToolTip": "fnPostDataBase\\Function1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\dougl\\Documents\\GitHub\\DIO\\HandsOn-Serveless NetFlix\\fnPostDataStorage\\fnGetMovieDetail\\Function1.cs",
+              "RelativeDocumentMoniker": "fnGetMovieDetail\\Function1.cs",
+              "ToolTip": "C:\\Users\\dougl\\Documents\\GitHub\\DIO\\HandsOn-Serveless NetFlix\\fnPostDataStorage\\fnGetMovieDetail\\Function1.cs",
+              "RelativeToolTip": "fnGetMovieDetail\\Function1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T03:15:55.58Z",
+              "WhenOpened": "2025-01-31T13:00:26.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "local.settings.json",
-              "DocumentMoniker": "C:\\Users\\dougl\\Documents\\GitHub\\DIO\\HandsOn-Serveless NetFlix\\fnPostDataStorage\\fnPostDataStorage\\local.settings.json",
-              "RelativeDocumentMoniker": "fnPostDataStorage\\local.settings.json",
-              "ToolTip": "C:\\Users\\dougl\\Documents\\GitHub\\DIO\\HandsOn-Serveless NetFlix\\fnPostDataStorage\\fnPostDataStorage\\local.settings.json",
-              "RelativeToolTip": "fnPostDataStorage\\local.settings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-31T01:40:46.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dougl\\Documents\\GitHub\\DIO\\HandsOn-Serveless NetFlix\\fnPostDataStorage\\fnPostDataStorage\\Program.cs",
-              "RelativeDocumentMoniker": "fnPostDataStorage\\Program.cs",
-              "ToolTip": "C:\\Users\\dougl\\Documents\\GitHub\\DIO\\HandsOn-Serveless NetFlix\\fnPostDataStorage\\fnPostDataStorage\\Program.cs",
-              "RelativeToolTip": "fnPostDataStorage\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADgvw4AAAAWAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\dougl\\Documents\\GitHub\\DIO\\HandsOn-Serveless NetFlix\\fnPostDataStorage\\fnGetMovieDetail\\Program.cs",
+              "RelativeDocumentMoniker": "fnGetMovieDetail\\Program.cs",
+              "ToolTip": "C:\\Users\\dougl\\Documents\\GitHub\\DIO\\HandsOn-Serveless NetFlix\\fnPostDataStorage\\fnGetMovieDetail\\Program.cs",
+              "RelativeToolTip": "fnGetMovieDetail\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T01:36:54.758Z",
+              "WhenOpened": "2025-01-31T12:57:43.224Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Function1.cs",
-              "DocumentMoniker": "C:\\Users\\dougl\\Documents\\GitHub\\DIO\\HandsOn-Serveless NetFlix\\fnPostDataStorage\\fnPostDataStorage\\Function1.cs",
-              "RelativeDocumentMoniker": "fnPostDataStorage\\Function1.cs",
-              "ToolTip": "C:\\Users\\dougl\\Documents\\GitHub\\DIO\\HandsOn-Serveless NetFlix\\fnPostDataStorage\\fnPostDataStorage\\Function1.cs",
-              "RelativeToolTip": "fnPostDataStorage\\Function1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBoAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T01:31:31.428Z",
+              "DocumentIndex": 5,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\dougl\\Documents\\GitHub\\DIO\\HandsOn-Serveless NetFlix\\fnPostDataStorage\\fnGetMovieDetail\\local.settings.json",
+              "RelativeDocumentMoniker": "fnGetMovieDetail\\local.settings.json",
+              "ToolTip": "C:\\Users\\dougl\\Documents\\GitHub\\DIO\\HandsOn-Serveless NetFlix\\fnPostDataStorage\\fnGetMovieDetail\\local.settings.json",
+              "RelativeToolTip": "fnGetMovieDetail\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T12:52:37.555Z",
               "EditorCaption": ""
             }
           ]
